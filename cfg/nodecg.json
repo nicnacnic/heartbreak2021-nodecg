@@ -1,0 +1,7 @@
+{
+	"ssl": {
+		"enabled": true,
+		"keyPath": "C:\\Users\\Nicolas\\Documents\\Marathons\\Node-Red\\nodecerts\\private.key",
+		"certificatePath": "C:\\Users\\Nicolas\\Documents\\Marathons\\Node-Red\\nodecerts\\certificate.crt"
+	}
+}

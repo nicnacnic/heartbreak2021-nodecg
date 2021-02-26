@@ -1,0 +1,32 @@
+{
+	"language": "en",
+	"twitch": {
+		"enabled": true,
+		"clientID": "th96217uu4ubvdb0c5ju77ivu5yo4j",
+		"clientSecret": "b9jlt7u6j3twyboxs8km77mckxkrxb",
+		"redirectURI": "https://dashboard.nicnacnic.com:9090/nodecg-speedcontrol/twitchauth",
+		"streamTitle": "{{game}} {{category}} by {{players}} - Horror(ible) Games 2021 - Heartbreak supporting the Heartland Animal Shelter",
+		"streamDefaultGame": "Games + Demos",
+		"ffzIntegration": false
+	},
+	"schedule": {
+		"defaultURL": "https://horaro.org/event/schedule",
+		"disableSpeedrunComLookup": false,
+		"customData": [{
+			"name": "Host",
+			"key": "host",
+			"ignoreMarkdown": false
+		}]
+	},
+	"oengus": {
+		"defaultMarathon": "SHORTNAME",
+		"useJapanese": false,
+		"disableSpeedrunComLookup": false
+	},
+	"customData": {
+		"player": [{
+			"name": "Pronouns",
+			"key": "pronouns"
+		}]
+	}
+}
